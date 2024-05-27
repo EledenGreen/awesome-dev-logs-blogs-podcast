@@ -3,11 +3,13 @@
     {
       "gameName": "test game",
       "gameDev": "test dev",
+      "url": "https://react.dev/",
       "id": "1"
     },
     {
       "gameName": "test game",
       "gameDev": "test dev",
+      "url": "https://www.wikipedia.org/",
       "id": "2"
     }
   ]
