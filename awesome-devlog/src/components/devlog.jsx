@@ -9,9 +9,10 @@ const Devlog = () => {
         <a href={devlog.url} key={devlog.id}>
           <ul className="mb-4 p-4 border rounded shadow-sm bg-stone-600 transition duration-300 ease-in-out transform hover:bg-zinc-500 hover:translate-y-1">
             <li className="font-semibold text-slate-100 text-lg mb-2">
-              Game: {devlog.gameName}
+              {devlog.name}
             </li>
-            <li className="text-gray-300">Dev: {devlog.gameDev}</li>
+            <li className="text-gray-300">Dev: {devlog.dev}</li>
+            <li className="text-gray-300">Type: {devlog.type}</li>
           </ul>
         </a>
       ))}

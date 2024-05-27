@@ -1,14 +1,18 @@
 {
   "devlogs": [
     {
-      "gameName": "test game",
-      "gameDev": "test dev",
+      "name": "test game",
+      "dev": "test dev",
+      "type": "logs",
+      "genre": "game",
       "url": "https://react.dev/",
       "id": "1"
     },
     {
-      "gameName": "test game",
-      "gameDev": "test dev",
+      "name": "test game",
+      "dev": "test dev",
+      "type": "blogs",
+      "genre": "website",
       "url": "https://www.wikipedia.org/",
       "id": "2"
     }
