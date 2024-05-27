@@ -1,7 +1,15 @@
 import { useSelector } from 'react-redux'
 
 const Devlog = () => {
-  const devlogs = useSelector((state) => state.devlogs)
+  const devlogs = useSelector(({ filter, devlogs }) => {
+    if (filter === 'ALL') {
+      return devlogs
+    }
+    return filter === 'LOGS'
+      ? devlogs.filter((devlog) => devlog.type === 'logs')
+      : devlogs.filter((devlog) => devlog.type === 'blogs')
+  })
+
   console.log(devlogs)
   return (
     <div className="p-4">
