@@ -4,6 +4,11 @@
       "gameName": "test game",
       "gameDev": "test dev",
       "id": "1"
+    },
+    {
+      "gameName": "test game",
+      "gameDev": "test dev",
+      "id": "2"
     }
   ]
 }
