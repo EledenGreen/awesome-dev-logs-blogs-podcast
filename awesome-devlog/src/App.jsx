@@ -6,6 +6,7 @@ import './index.css'
 import Menu from './components/menu'
 import VisibilityFilter from './components/filter'
 import Footer from './components/footer'
+import NavigationBar from './components/navigationBar'
 
 const App = () => {
   const dispatch = useDispatch()
@@ -16,6 +17,7 @@ const App = () => {
 
   return (
     <>
+      <NavigationBar />
       <Menu />
       <VisibilityFilter />
       <Devlog />
