@@ -2,6 +2,9 @@ POST http://localhost:3003/api/devs
 Content-Type: application/json
 
 {
-    "name": "test blog",
-    "dev": "zed"
+    "name": "Discussing the environmental isolation and practice of React Server Component and React Client Component",
+    "dev": "Innie",
+    "type": "blogs",
+    "genre": "tech",
+    "url": "https://innei.in/posts/tech/exploring-environment-isolation-and-practice-of-react-server-component-and-react-client-component"
 }
