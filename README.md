@@ -25,7 +25,7 @@ Share any logs or blogs that you find interesting by making a PR.
 
 <hr/>
 <p>
-  <img src="https://github.com/EledenGreen/awesome-dev-logs-and-blogs/assets/114846457/437a4dd8-adf0-47f6-ab6b-9a2470e6a73c" alt="centilia-waiting" />
+  <img src="./assets/centilia-waiting.gif" alt="centilia-waiting" />
 </p>
 <p>
   Currently the website is hosted on Render free tier. So might be very slow. 😭
