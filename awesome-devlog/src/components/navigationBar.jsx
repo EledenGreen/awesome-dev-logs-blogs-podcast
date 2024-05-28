@@ -6,7 +6,9 @@ const NavigationBar = () => {
   return (
     <nav className="bg-transparent-700 p-4">
       <div className="max-w-7xl mx-auto flex justify-between items-center">
-        <div className="text-white text-lg font-semibold">:)</div>
+        <div className="text-white text-lg font-semibold">
+          Best dev logs & blogs
+        </div>
         <div className="md:hidden">
           <button
             onClick={() => setIsOpen(!isOpen)}
@@ -36,16 +38,6 @@ const NavigationBar = () => {
           <li>
             <a href="#" className="text-gray-300 hover:text-white">
               Documentation
-            </a>
-          </li>
-          <li>
-            <a href="#" className="text-gray-300 hover:text-white">
-              Services
-            </a>
-          </li>
-          <li>
-            <a href="#" className="text-gray-300 hover:text-white">
-              Contact
             </a>
           </li>
         </ul>
