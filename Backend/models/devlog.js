@@ -1,7 +1,11 @@
 const mongoose = require('mongoose')
 
 const devSchema = new mongoose.Schema({
-  name: String,
+  name: {
+    type: String,
+    required: true,
+    unique: true,
+  },
   dev: String,
   type: String,
   genre: String,

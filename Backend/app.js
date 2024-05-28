@@ -5,6 +5,7 @@ const cors = require('cors')
 const mongoose = require('mongoose')
 const logger = require('./utils/logger')
 const middleware = require('./utils/middleware')
+const devsRouter = require('./controllers/devs')
 
 mongoose.set('strictQuery', false)
 
@@ -23,6 +24,8 @@ app.use(cors)
 app.use(express.static('dist'))
 app.use(express.json())
 app.use(middleware.requestLogger)
+
+app.use('/api/devs', devsRouter)
 
 app.use(middleware.unknownEndpoint)
 
