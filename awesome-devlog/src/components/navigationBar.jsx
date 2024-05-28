@@ -36,7 +36,10 @@ const NavigationBar = () => {
           } md:block`}
         >
           <li>
-            <a href="#" className="text-gray-300 hover:text-white">
+            <a
+              href="https://github.com/EledenGreen/awesome-dev-logs-and-blogs/blob/main/documentation.md"
+              className="text-gray-300 hover:text-white"
+            >
               Documentation
             </a>
           </li>
