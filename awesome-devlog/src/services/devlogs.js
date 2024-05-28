@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const baseurl = 'http://localhost:3001/devlogs'
+const baseurl = '/api/devs'
 
 const getAll = async () => {
   console.log('INSIDE')
