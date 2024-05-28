@@ -5,3 +5,7 @@
 body {
   @apply bg-stone-800;
 }
+
+.custom-devlog-width {
+  width: 50%;
+}

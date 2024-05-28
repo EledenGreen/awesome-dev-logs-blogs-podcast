@@ -14,7 +14,7 @@ const VisibilityFilter = () => {
   }
 
   return (
-    <div className="ml-4 mt-4 flex space-x-2">
+    <div className="custom-devlog-width mx-auto mt-4 flex justify-left space-x-2">
       <button
         onClick={() => dispatch(setFilter('ALL'))}
         className={getButtonClass('ALL')}

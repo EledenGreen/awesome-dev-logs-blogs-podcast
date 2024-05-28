@@ -5,6 +5,7 @@ import Devlog from './components/devlog'
 import './index.css'
 import Menu from './components/menu'
 import VisibilityFilter from './components/filter'
+import Footer from './components/footer'
 
 const App = () => {
   const dispatch = useDispatch()
@@ -18,6 +19,7 @@ const App = () => {
       <Menu />
       <VisibilityFilter />
       <Devlog />
+      <Footer />
     </>
   )
 }

@@ -14,8 +14,13 @@ const Devlog = () => {
   return (
     <div className="p-4">
       {devlogs.map((devlog) => (
-        <a href={devlog.url} key={devlog.id}>
-          <ul className="mb-4 p-4 border rounded shadow-sm bg-stone-600 transition duration-300 ease-in-out transform hover:bg-zinc-500 hover:translate-y-1">
+        <a
+          href={devlog.url}
+          key={devlog.id}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <ul className="custom-devlog-width mx-auto mb-4 p-2 border rounded shadow-sm bg-stone-600 transition duration-300 ease-in-out transform hover:bg-zinc-500 hover:translate-y-1">
             <li className="font-semibold text-slate-100 text-lg mb-2">
               {devlog.name}
             </li>
