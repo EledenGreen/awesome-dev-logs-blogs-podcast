@@ -25,7 +25,7 @@ Share any logs or blogs that you find interesting by making a PR.
 
 ## Podcast
 
-1. [Components We Need on Every Project](https://syntax.fm/775)
+1. [Components We Need on Every Project](https://syntax.fm/775) by [Syntax](https://syntax.fm/)
 
 
 <hr/>
