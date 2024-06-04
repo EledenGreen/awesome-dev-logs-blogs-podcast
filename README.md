@@ -11,6 +11,7 @@ Share any logs or blogs that you find interesting by making a PR.
 
 - [Blogs](#blogs)
 - [Logs](#logs)
+- [Podcast](#podcast)
 
 ## Blogs
 
@@ -20,7 +21,11 @@ Share any logs or blogs that you find interesting by making a PR.
 ## Logs
 
 1. [To design a tactical shooter // Dev Diaries - VALORANT](https://www.youtube.com/watch?v=xu6g1uADlGg) 😊
-2. [1 Year Making a Cozy Game | My Journey](https://www.youtube.com/watch?v=PpU-dKFCmnQ) by [Crimson Hollow](https://www.crimsonhollowgame.com/)  
+2. [1 Year Making a Cozy Game | My Journey](https://www.youtube.com/watch?v=PpU-dKFCmnQ) by [Crimson Hollow](https://www.crimsonhollowgame.com/)
+
+## Podcast
+
+1. [Components We Need on Every Project](https://syntax.fm/775)
 
 
 <hr/>
