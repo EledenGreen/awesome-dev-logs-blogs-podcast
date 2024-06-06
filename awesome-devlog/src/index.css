@@ -9,3 +9,9 @@ body {
 .custom-devlog-width {
   width: 50%;
 }
+
+.card:hover {
+  transform: scale(1.01);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.75);
+  background: bg-stone-800;
+}

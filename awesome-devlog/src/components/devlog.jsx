@@ -21,7 +21,7 @@ const Devlog = () => {
             rel="noopener noreferrer"
             className="block mb-4 p-2"
           >
-            <ul className="p-2 border rounded shadow-sm bg-stone-700 transition duration-300 ease-in-out transform hover:bg-zinc-600 hover:translate-y-1">
+            <ul className="card p-2 border border-stone-800 rounded shadow-sm bg-stone-800 ">
               <li className="font-semibold text-slate-100 text-lg mb-2">
                 {devlog.name}
               </li>
