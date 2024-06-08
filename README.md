@@ -1,7 +1,7 @@
 # Dev Logs and Blogs
 
 **Disclaimer:**  
-Not all logs and blogs are meant to spark *awesomeness*. I used the word `awesome` because GitHub seems to have a naming convention of *awesome* when it comes to curated lists. Some blogs are very introspective and I don't mean to disrespect in any way by including them in this list.
+Not all logs and blogs are meant to spark _awesomeness_. I used the word `awesome` because GitHub seems to have a naming convention of _awesome_ when it comes to curated lists. Some blogs are very introspective and I don't mean to disrespect in any way by including them in this list.
 
 This project was created to curate logs (even games), blogs (mostly from dev blogs), etc. The complete development process can be found on the [documentation](https://github.com/EledenGreen/awesome-dev-logs-and-blogs/blob/main/documentation.md) page.
 
@@ -26,7 +26,7 @@ Share any logs or blogs that you find interesting by making a PR.
 ## Podcast
 
 1. [Components We Need on Every Project](https://syntax.fm/775) by [Syntax](https://syntax.fm/)
-
+2. [How to Outsmart AI as a Developer- Dr. Chuck Interview](https://open.spotify.com/episode/7EZV9IofaSm9w6ViupHUBy?si=8b170d3c5dc04760) by [freecodecamp](https://open.spotify.com/show/7CpuEnbCLIXwI6LEcbBOYP?si=b211826fdd074030)
 
 <hr/>
 <p>
@@ -35,5 +35,3 @@ Share any logs or blogs that you find interesting by making a PR.
 <p>
   Currently the website is hosted on Render free tier. So might be very slow. 😭
 </p>
-
-
