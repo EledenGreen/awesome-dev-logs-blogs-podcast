@@ -1,4 +1,4 @@
-# Dev Logs and Blogs
+# Dev Logs Blogs Podcast
 
 **Disclaimer:**  
 Not all logs and blogs are meant to spark _awesomeness_. I used the word `awesome` because GitHub seems to have a naming convention of _awesome_ when it comes to curated lists. Some blogs are very introspective and I don't mean to disrespect in any way by including them in this list.
@@ -27,6 +27,7 @@ Share any logs or blogs that you find interesting by making a PR.
 
 1. [Components We Need on Every Project](https://syntax.fm/775) by [Syntax](https://syntax.fm/)
 2. [How to Outsmart AI as a Developer- Dr. Chuck Interview](https://open.spotify.com/episode/7EZV9IofaSm9w6ViupHUBy?si=8b170d3c5dc04760) by [freecodecamp](https://open.spotify.com/show/7CpuEnbCLIXwI6LEcbBOYP?si=b211826fdd074030)
+3. [How the US is destroying young people's future](https://open.spotify.com/episode/4KhbGrBOw412ItbJWYm1Iy?si=VHS9hCwGRV2r6ryr58DBcw) by [Scott Galloway](https://en.wikipedia.org/wiki/Scott_Galloway_(professor))
 
 <hr/>
 <p>
