@@ -17,6 +17,7 @@ Share any logs or blogs that you find interesting by making a PR.
 
 1. [Automatically build projects across repositories and deploy them to servers](https://innei.in/posts/tech/automatically-build-projects-across-repositories-and-deploy-to-servers) by [Innie](https://github.com/Innei)
 2. [Discussing the environmental isolation and practice of React Server Component and React Client Component](https://innei.in/posts/tech/exploring-environment-isolation-and-practice-of-react-server-component-and-react-client-component) by [Innie](https://github.com/Innei)
+3. [Messenger Desktop: Faster and Smaller by moving to React Native from Electron](https://developers.facebook.com/blog/post/2023/05/17/messenger-desktop-faster-and-smaller-by-moving-to-react-native-from-electron/) by Christoph Purrer
 
 ## Logs
 
